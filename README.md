@@ -6,12 +6,3 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=Mugamta)](https://solved.ac/Mugamta/)
 
-<br/>
-
-![Mugamta's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mugamta&show_icons=true&theme=dracula)
-
-<br/>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mugamta&layout=Demo&theme=dracula)
-
-
